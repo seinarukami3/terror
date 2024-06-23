@@ -1,613 +1,1334 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719119915230 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719173122225 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119918343 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173125377 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173128612 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173131761 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173134913 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173138037 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173141153 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173144278 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173147436 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173150555 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173153694 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173156799 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173159911 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173163023 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173166129 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173169239 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173172368 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173175507 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173178679 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173181798 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173184953 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173188048 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173191141 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173194275 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173197483 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173200606 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173203730 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173206884 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173209988 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173213144 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173216263 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173219382 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173222639 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173225784 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173228910 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173232009 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173235125 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173238266 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173241480 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173244682 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173247853 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173250978 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173254119 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173257217 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173260354 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173263449 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173266792 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173269921 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173273056 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173276159 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173279256 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173282354 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173285462 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173288570 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173291699 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173294939 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173298097 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173301196 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173304328 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173307524 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173310715 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173313898 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173317063 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173320207 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173323302 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173326425 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173329538 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173332639 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173335768 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173338872 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173342032 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173345133 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173348223 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173351334 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173354444 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173357548 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173360650 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173363785 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173366952 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173370064 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173373156 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173376276 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173379516 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173382656 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173385767 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173388864 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173391960 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173395089 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173398212 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173401334 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173404678 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173407814 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173410944 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173414081 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173417210 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173420365 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173423464 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173426596 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173429789 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173432906 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173436027 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173439167 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173442317 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173445430 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173448683 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119921454 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173451795 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119924579 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173454912 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119927705 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173458024 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119930830 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173461153 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119933950 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173464279 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119937073 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173467403 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119940207 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173470519 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119943307 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173473648 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119946485 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173476789 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119949601 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173479965 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1719119952704 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173483073 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.13): 1719119955820 tunnel running, 2 tunnels registered
+society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719173486198 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119958941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173489302 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119962069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173492406 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119965182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173495549 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119968285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173498708 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119971395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173501873 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119974503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173505008 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119977626 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173508180 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119980735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173511338 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119983917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173514462 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119987040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173517611 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119990160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173521066 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119993408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173524299 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119996518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173527427 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719119999653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173530624 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120002806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173533737 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120005995 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173536937 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120009136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173540084 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120012276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173543246 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120015391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173546385 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120018503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173549657 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120021621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173552790 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120024738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173555907 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120027899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173559023 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120031013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173562278 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120034124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173565386 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120037246 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173568720 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120040362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173571853 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120043486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173575063 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120046600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173578176 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120049702 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173581350 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120052863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173584630 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120056011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173587806 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120059141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173590982 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120062264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173594107 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120065394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173597255 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120068499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173600378 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120071619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173603487 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120074818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173606624 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120077917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173609730 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120081040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173612979 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120084157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173616308 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120087262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173619507 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120090388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173622666 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120093494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173625838 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120096591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173628950 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120099734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173632052 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120102867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173635157 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120105999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173638337 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120109129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173641662 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120112244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173644786 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120115378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173647895 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120118484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173651074 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120121602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173654182 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120124742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173657380 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120127873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173660546 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120131007 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173663663 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120134131 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173666806 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120137265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173669949 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120140406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173673063 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120143528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173676253 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120146682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173679365 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120149864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173682554 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120153000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173685698 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120156118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173688857 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120159254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173692014 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120162371 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173695141 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120165465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173698239 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120168560 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173701369 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120171693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173704527 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120174812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173707713 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120177932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173710843 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120181039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173713958 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120184150 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173717067 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 certain-tests.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 society-ceremony.gl.at.ply.gg:2818 => 127.0.0.1:2818 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719120187246 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719173720174 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
